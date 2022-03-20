@@ -1,0 +1,91 @@
+body {
+  padding-left: 20%;
+  padding-right: 20%;
+}
+.head {
+  display: inline-block;
+  width: 100%;
+}
+#head2 {
+  float: right;
+}
+#head1 {
+  float: left;
+}
+img {
+  float: right;
+}
+#name1 {
+  color: brown;
+  font: optional;
+  margin-bottom: 0%;
+  font-size: 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#name2 {
+  color: brown;
+  font: bold;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  margin-top: 0%;
+  font-size: 60px;
+}
+#para {
+  font-size: large;
+  padding: 5px;
+}
+
+h3 {
+  color: brown;
+}
+.pset {
+  border-top: 2px solid brown;
+}
+img {
+  background-color: brown;
+  height: 24px;
+  width: 24px;
+}
+
+#educ {
+  border-bottom: 2px solid gray;
+}
+#workxp {
+  border-bottom: 2px solid gray;
+}
+#ks {
+  border-bottom: 2px solid gray;
+}
+#rm {
+  font-weight: bold;
+}
+#dt {
+  font-weight: bold;
+}
+
+li {
+  list-style: circle;
+}
+
+#fullbody {
+  border: 2px solid brown;
+}
+div {
+  padding-left: 2px;
+}
+
+.workp {
+  margin-left: 0%;
+  padding-left: 0%;
+  border: 12px, solid greenyellow;
+}
+#work {
+  margin-left: 0%;
+  padding-left: 0%;
+}
+
+h4 {
+  color: brown;
+  font-weight: bold;
+}
